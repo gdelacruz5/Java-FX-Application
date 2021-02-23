@@ -1,0 +1,132 @@
+Environment variables:
+  - =C:=C:\Users\Paolo\Documents\NetBeansProjects\JavaFXApplication2
+  - ALLUSERSPROFILE=C:\ProgramData
+  - APPDATA=C:\Users\Paolo\AppData\Roaming
+  - COMPUTERNAME=DESKTOP-MFP6NRK
+  - ComSpec=C:\WINDOWS\system32\cmd.exe
+  - CommonProgramFiles=C:\Program Files\Common Files
+  - CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+  - CommonProgramW6432=C:\Program Files\Common Files
+  - DOCKER_TOOLBOX_INSTALL_PATH=C:\Program Files\Docker Toolbox
+  - ERROR_CODE=0
+  - FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+  - FPS_BROWSER_USER_PROFILE_STRING=Default
+  - HOMEDRIVE=C:
+  - HOMEPATH=\Users\Paolo
+  - JAVA_EXEC="C:\Users\Paolo\Downloads\sonar-scanner\bin\..\jre\bin\java.exe"
+  - JAVA_HOME=C:\Users\Paolo\Downloads\sonar-scanner\bin\..\jre
+  - LOCALAPPDATA=C:\Users\Paolo\AppData\Local
+  - LOGONSERVER=\\DESKTOP-MFP6NRK
+  - NUMBER_OF_PROCESSORS=4
+  - OS=Windows_NT
+  - OneDrive=C:\Users\Paolo\OneDrive
+  - PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+  - PROCESSOR_ARCHITECTURE=AMD64
+  - PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 55 Stepping 8, GenuineIntel
+  - PROCESSOR_LEVEL=6
+  - PROCESSOR_REVISION=3708
+  - PROJECT_HOME=C:\Users\Paolo\Documents\NetBeansProjects\JavaFXApplication2
+  - PROMPT=$P$G
+  - PSModulePath=C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\
+  - PUBLIC=C:\Users\Public
+  - Path=C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\TXE Components\TCS\;C:\Program Files\Intel\TXE Components\TCS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Users\Paolo\Anaconda3;C:\Users\Paolo\Anaconda3\Scripts;C:\Users\Paolo\Anaconda3\Library\bin;C:\Users\Paolo\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Docker Toolbox
+  - ProgramData=C:\ProgramData
+  - ProgramFiles=C:\Program Files
+  - ProgramFiles(x86)=C:\Program Files (x86)
+  - ProgramW6432=C:\Program Files
+  - SESSIONNAME=Console
+  - SONAR_SCANNER_HOME=C:\Users\Paolo\Downloads\sonar-scanner\bin\..
+  - SystemDrive=C:
+  - SystemRoot=C:\WINDOWS
+  - TEMP=C:\Users\Paolo\AppData\Local\Temp
+  - TMP=C:\Users\Paolo\AppData\Local\Temp
+  - USERDOMAIN=DESKTOP-MFP6NRK
+  - USERDOMAIN_ROAMINGPROFILE=DESKTOP-MFP6NRK
+  - USERNAME=Paolo
+  - USERPROFILE=C:\Users\Paolo
+  - VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+  - use_embedded_jre=true
+  - windir=C:\WINDOWS
+System properties:
+  - awt.toolkit=sun.awt.windows.WToolkit
+  - file.encoding=Cp1252
+  - file.encoding.pkg=sun.io
+  - file.separator=\
+  - java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+  - java.awt.headless=true
+  - java.awt.printerjob=sun.awt.windows.WPrinterJob
+  - java.class.path=C:\Users\Paolo\Downloads\sonar-scanner\bin\..\lib\sonar-scanner-cli-3.0.1.733.jar
+  - java.class.version=52.0
+  - java.endorsed.dirs=C:\Users\Paolo\Downloads\sonar-scanner\jre\lib\endorsed
+  - java.ext.dirs=C:\Users\Paolo\Downloads\sonar-scanner\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+  - java.home=C:\Users\Paolo\Downloads\sonar-scanner\jre
+  - java.io.tmpdir=C:\Users\Paolo\AppData\Local\Temp\
+  - java.library.path=C:\Users\Paolo\Downloads\sonar-scanner\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\TXE Components\TCS\;C:\Program Files\Intel\TXE Components\TCS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\Git\cmd;C:\Users\Paolo\Anaconda3;C:\Users\Paolo\Anaconda3\Scripts;C:\Users\Paolo\Anaconda3\Library\bin;C:\Users\Paolo\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Docker Toolbox;.
+  - java.runtime.name=Java(TM) SE Runtime Environment
+  - java.runtime.version=1.8.0_121-b13
+  - java.specification.name=Java Platform API Specification
+  - java.specification.vendor=Oracle Corporation
+  - java.specification.version=1.8
+  - java.vendor=Oracle Corporation
+  - java.vendor.url=http://java.oracle.com/
+  - java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+  - java.version=1.8.0_121
+  - java.vm.info=mixed mode
+  - java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+  - java.vm.specification.name=Java Virtual Machine Specification
+  - java.vm.specification.vendor=Oracle Corporation
+  - java.vm.specification.version=1.8
+  - java.vm.vendor=Oracle Corporation
+  - java.vm.version=25.121-b13
+  - line.separator=
+
+  - os.arch=amd64
+  - os.name=Windows 10
+  - os.version=10.0
+  - path.separator=;
+  - project.home=C:\Users\Paolo\Documents\NetBeansProjects\JavaFXApplication2
+  - scanner.home=C:\Users\Paolo\Downloads\sonar-scanner\bin\..
+  - sun.arch.data.model=64
+  - sun.boot.class.path=C:\Users\Paolo\Downloads\sonar-scanner\jre\lib\resources.jar;C:\Users\Paolo\Downloads\sonar-scanner\jre\lib\rt.jar;C:\Users\Paolo\Downloads\sonar-scanner\jre\lib\sunrsasign.jar;C:\Users\Paolo\Downloads\sonar-scanner\jre\lib\jsse.jar;C:\Users\Paolo\Downloads\sonar-scanner\jre\lib\jce.jar;C:\Users\Paolo\Downloads\sonar-scanner\jre\lib\charsets.jar;C:\Users\Paolo\Downloads\sonar-scanner\jre\lib\jfr.jar;C:\Users\Paolo\Downloads\sonar-scanner\jre\classes
+  - sun.boot.library.path=C:\Users\Paolo\Downloads\sonar-scanner\jre\bin
+  - sun.cpu.endian=little
+  - sun.cpu.isalist=amd64
+  - sun.desktop=windows
+  - sun.io.unicode.encoding=UnicodeLittle
+  - sun.java.command=org.sonarsource.scanner.cli.Main -X
+  - sun.java.launcher=SUN_STANDARD
+  - sun.jnu.encoding=Cp1252
+  - sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+  - sun.os.patch.level=
+  - sun.stderr.encoding=cp437
+  - sun.stdout.encoding=cp437
+  - user.country=US
+  - user.dir=C:\Users\Paolo\Documents\NetBeansProjects\JavaFXApplication2
+  - user.home=C:\Users\Paolo
+  - user.language=en
+  - user.name=Paolo
+  - user.script=
+  - user.timezone=America/Los_Angeles
+  - user.variant=
+SonarQube plugins:
+  - C# 5.7.0.612 (csharp)
+  - Python 1.7.0.1195 (python)
+  - Java 4.5.0.8398 (java)
+  - Flex 2.3 (flex)
+  - Git 1.2 (scmgit)
+  - PHP 2.9.2.1744 (php)
+  - SVN 1.4.0.522 (scmsvn)
+  - SonarJS 2.20.0.4207 (javascript)
+Global properties:
+  - sonar.core.id=AVvGF_DuyLI5oEaEweXf
+  - sonar.core.startTime=2017-05-08T13:20:51-0700
+Settings for module: java-sonar-runner-simple
+  - sonar.language=java
+  - sonar.projectBaseDir=C:\Users\Paolo\Documents\NetBeansProjects\JavaFXApplication2
+  - sonar.projectKey=java-sonar-runner-simple
+  - sonar.projectName=Simple Java project analyzed with the SonarQube Runner
+  - sonar.projectVersion=1.0
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=src
+  - sonar.verbose=true
+  - sonar.working.directory=C:\Users\Paolo\Documents\NetBeansProjects\JavaFXApplication2\.scannerwork

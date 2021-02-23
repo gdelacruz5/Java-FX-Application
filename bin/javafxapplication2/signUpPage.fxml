@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="javafxapplication2.SplashPageController">
+   <children>
+      <Button fx:id="getSignUp" layoutX="276.0" layoutY="285.0" mnemonicParsing="false" onAction="#signUpPageBtns" prefHeight="25.0" prefWidth="133.0" text="Sign Up" AnchorPane.rightAnchor="233.0" AnchorPane.topAnchor="285.0" />
+      <Button layoutX="14.0" layoutY="361.0" mnemonicParsing="false" text="Back" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="14.0" />
+      <Label layoutX="14.0" layoutY="10.0" text="Inspired" textFill="#f53131" AnchorPane.leftAnchor="10.0" AnchorPane.topAnchor="10.0">
+         <font>
+            <Font name="Arial Bold" size="50.0" />
+         </font>
+      </Label>
+      <TextField layoutX="234.0" layoutY="188.0" prefHeight="25.0" prefWidth="133.0" promptText="Email" AnchorPane.topAnchor="188.0" />
+      <TextField layoutX="234.0" layoutY="219.0" prefHeight="25.0" prefWidth="133.0" promptText="Password" />
+      <TextField layoutX="234.0" layoutY="157.0" prefHeight="25.0" prefWidth="133.0" promptText="Username" />
+      <TextField layoutX="234.0" layoutY="252.0" prefHeight="25.0" prefWidth="133.0" promptText="Confirm Password" />
+      <Text layoutX="249.0" layoutY="145.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Join Inspired today." />
+   </children>
+</AnchorPane>
